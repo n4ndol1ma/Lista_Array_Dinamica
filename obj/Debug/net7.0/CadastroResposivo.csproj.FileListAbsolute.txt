@@ -1,0 +1,14 @@
+C:\Projetos\CadastroResposivo\bin\Debug\net7.0\CadastroResposivo.exe
+C:\Projetos\CadastroResposivo\bin\Debug\net7.0\CadastroResposivo.deps.json
+C:\Projetos\CadastroResposivo\bin\Debug\net7.0\CadastroResposivo.runtimeconfig.json
+C:\Projetos\CadastroResposivo\bin\Debug\net7.0\CadastroResposivo.dll
+C:\Projetos\CadastroResposivo\bin\Debug\net7.0\CadastroResposivo.pdb
+C:\Projetos\CadastroResposivo\obj\Debug\net7.0\CadastroResposivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CadastroResposivo\obj\Debug\net7.0\CadastroResposivo.AssemblyInfoInputs.cache
+C:\Projetos\CadastroResposivo\obj\Debug\net7.0\CadastroResposivo.AssemblyInfo.cs
+C:\Projetos\CadastroResposivo\obj\Debug\net7.0\CadastroResposivo.csproj.CoreCompileInputs.cache
+C:\Projetos\CadastroResposivo\obj\Debug\net7.0\CadastroResposivo.dll
+C:\Projetos\CadastroResposivo\obj\Debug\net7.0\refint\CadastroResposivo.dll
+C:\Projetos\CadastroResposivo\obj\Debug\net7.0\CadastroResposivo.pdb
+C:\Projetos\CadastroResposivo\obj\Debug\net7.0\CadastroResposivo.genruntimeconfig.cache
+C:\Projetos\CadastroResposivo\obj\Debug\net7.0\ref\CadastroResposivo.dll
